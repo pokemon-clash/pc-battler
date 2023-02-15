@@ -1,3 +1,3 @@
-# Spring Boot + Spring data JPA + PostgreSQL example
+## Battles manager for Pokémon-Clash system
 
-Article link : https://www.mkyong.com/spring-boot/spring-boot/spring-boot-spring-data-jpa-postgresql/
+Work in progress, just started, please be patient.
